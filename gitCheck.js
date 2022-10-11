@@ -1,1 +1,1 @@
-var a = "1st master commit"
+var a = "1st feature commit"
